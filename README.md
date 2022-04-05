@@ -8,3 +8,5 @@
 - 📫 How to reach me: [Gmail](mailto:intern.sourabh@gmail.com)  [LinkedIn](https://www.linkedin.com/in/sourabh-shukla-178b2121b/)
 
 ![](https://c.tenor.com/GfSX-u7VGM4AAAAC/coding.gif)
+
+![](https://komarev.com/ghpvc/?username=ideepakrajput&color=blueviolet)
